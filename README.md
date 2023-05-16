@@ -70,7 +70,7 @@
 <h2><u>Initial Planning</u></h2>
 <h3 align = center>Empathy Map<h3>
 
-[Empathy Diagram](Diagrams/EmpathyDiagram.png)
+<img src = "https://raw.githubusercontent.com/BinaryQuBit/SKCDA---Webpage---Design/main/Diagrams/EmpathyDiagram.png" alt = "Empathy Diagram">
 
 
 <h3 align = center>Affinity Diagram<h3>
