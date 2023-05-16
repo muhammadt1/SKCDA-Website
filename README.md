@@ -22,16 +22,16 @@
 
 <h3>
 
-- Transitioning Job Roles
-- Fresh Graduates from Post-Secondary
-- Professionals Looking for CCDP Designation
+- Transitioning job roles
+- Fresh graduates from post-secondary
+- Professionals looking for CCDP designation
 </h3>
 
 <h3><i><strong>Carryover</strong></i> audience who are:</h3>
 
 <h3>
 
-- Board Members
+- Board members
 - Members
 - Volunteers including professionals, employers etc.
 </h3>
