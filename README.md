@@ -70,7 +70,7 @@
 <h2><u>Initial Planning</u></h2>
 <h3 align = center>Empathy Map<h3>
 
-![Alt text](EmpathyDiagram.png)
+![Empathy Map](EmpathyDiagram.png)
 
 
 <h3 align = center>Affinity Diagram<h3>
