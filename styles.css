@@ -1,3 +1,13 @@
 body {
-    background-color: red;
+    background-color: darkgrey;
+    text-align: center;
+    margin: 5%;
+}
+
+h1{
+    color: white;
+}
+
+h2{
+    text-align: center;
 }
