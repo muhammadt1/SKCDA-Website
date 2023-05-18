@@ -66,3 +66,16 @@
 - Getting approval to use content from previous <a href = "http://www.skcda.ca/">website</a>
 - Getting access to the member's login page to view information
 - Budgeting constraint
+</h3>
+<h1></h1>
+
+<h2><u>Resources</u></h2>
+<h3>
+
+- Check out our <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/">Initial Planning</a>
+- <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%201.pdf>Empathy Map 1</a>
+- <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%202.pdf>Empathy Map 2</a>
+- <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%203.pdf>Empathy Map 3</a>
+- <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Affinity%20Diagram.pdf>Affinity Map</a>
+- <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Documents/Insights.pdf>Insights</a>
+- <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/usm-SKCDA.pdf>User Story Map</a>

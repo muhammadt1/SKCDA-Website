@@ -54,6 +54,7 @@ h3{
 .item39 { grid-area: empty34; }
 .item40 { grid-area: empty35; }
 .item41 { grid-area: empty36; }
+.item42 { grid-area: usm; }
 
 .grid-container {
   display: grid;
@@ -66,7 +67,8 @@ h3{
     'empty19 empty20 empty21 empty22 empty23 empty24'
     'insights insights insights insights insights insights'
     'empty25 empty26 empty27 empty28 empty29 empty30'
-    'empty31 empty32 empty33 empty34 empty35 empty36';
+    'empty31 empty32 empty33 empty34 empty35 empty36'
+    'usm usm usm usm usm usm';
 }
 
 .grid-container > div {
