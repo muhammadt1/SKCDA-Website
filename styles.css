@@ -1,13 +1,64 @@
 body {
     background-color: darkgrey;
-    text-align: center;
-    margin: 5%;
+    margin: 2%;
 }
 
 h1{
     color: white;
-}
-
-h2{
     text-align: center;
 }
+
+h3{
+    color: white;
+}
+
+.item1 { grid-area: empathy1; }
+.item2 { grid-area: empathy2; }
+.item3 { grid-area: empathy3; }
+.item4 { grid-area: empty1; }
+.item5 { grid-area: empty2; }
+.item6 { grid-area: empty3; }
+.item7 { grid-area: empty4; }
+.item8 { grid-area: empty5; }
+.item9 { grid-area: empty6; }
+.item10 { grid-area: empty7; }
+.item11 { grid-area: empty8; }
+.item12 { grid-area: empty9; }
+.item13 { grid-area: empty10; }
+.item14 { grid-area: empty11; }
+.item15 { grid-area: empty12; }
+.item16 { grid-area: affinity;}
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    'empathy1 empathy1 empathy2 empathy2 empathy3 empathy3'
+    'empty1 empty2 empty3 empty4 empty5 empty6'
+    'empty7 empty8 empty9 empty10 empty11 empty12'
+    'affinity affinity affinity affinity affinity affinity';
+}
+
+.grid-container > div {
+  background-color: darkgrey;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+.left{
+    height: 50px;
+    border-left: 3px dashed white;
+}
+
+.right{
+    height: 50px;
+    border-right: 3px dashed white;
+}
+
+.bottom{
+    height: 50px;
+    border-bottom: 3px dashed white;
+}
+
