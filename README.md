@@ -1,4 +1,4 @@
-<h1 align = center> Saskatchwan Career Development Association (SKDCA) - Web Application </h1>
+<h1 align = center>Saskatchewan Career Development Association (SKDCA) - Web Application</h1>
 
 <h2><u>Project Overview</u></h2>
 
@@ -44,7 +44,7 @@
 - Focus on encouraging people to join as members
 - Enhance UI Experience
 - A section dedicated to resource sharing and networking between members
-- Apealing and responive membership and payment forms
+- Appealing and responsive membership and payment forms
 - Up-to-date events, conferences, podcast (news type banner)
 
 </h3>
@@ -62,7 +62,7 @@
 <h2><u>Constraints</u></h2>
 <h3>
 
-- Getting approval to use content from other related province associations
+- Getting approval to use content from other related provincial associations
 - Getting approval to use content from previous <a href = "http://www.skcda.ca/">website</a>
 - Getting access to the member's login page to view information
 - Budgeting constraint
