@@ -10,6 +10,7 @@ h1{
 
 h3{
     color: white;
+    text-align: center;
 }
 
 .item1 { grid-area: empathy1; }
@@ -27,7 +28,32 @@ h3{
 .item13 { grid-area: empty10; }
 .item14 { grid-area: empty11; }
 .item15 { grid-area: empty12; }
-.item16 { grid-area: affinity;}
+.item16 { grid-area: affinity; }
+.item17 { grid-area: empty13; }
+.item18 { grid-area: empty14; }
+.item19 { grid-area: empty15; }
+.item20 { grid-area: empty16; }
+.item21 { grid-area: empty17; }
+.item22 { grid-area: empty18; }
+.item23 { grid-area: empty19; }
+.item24 { grid-area: empty20; }
+.item25 { grid-area: empty21; }
+.item26 { grid-area: empty22; }
+.item27 { grid-area: empty23; }
+.item28 { grid-area: empty24; }
+.item29 { grid-area: insights; }
+.item30 { grid-area: empty25; }
+.item31 { grid-area: empty26; }
+.item32 { grid-area: empty27; }
+.item33 { grid-area: empty28; }
+.item34 { grid-area: empty29; }
+.item35 { grid-area: empty30; }
+.item36 { grid-area: empty31; }
+.item37 { grid-area: empty32; }
+.item38 { grid-area: empty33; }
+.item39 { grid-area: empty34; }
+.item40 { grid-area: empty35; }
+.item41 { grid-area: empty36; }
 
 .grid-container {
   display: grid;
@@ -35,7 +61,12 @@ h3{
     'empathy1 empathy1 empathy2 empathy2 empathy3 empathy3'
     'empty1 empty2 empty3 empty4 empty5 empty6'
     'empty7 empty8 empty9 empty10 empty11 empty12'
-    'affinity affinity affinity affinity affinity affinity';
+    'affinity affinity affinity affinity affinity affinity'
+    'empty13 empty14 empty15 empty16 empty17 empty18'
+    'empty19 empty20 empty21 empty22 empty23 empty24'
+    'insights insights insights insights insights insights'
+    'empty25 empty26 empty27 empty28 empty29 empty30'
+    'empty31 empty32 empty33 empty34 empty35 empty36';
 }
 
 .grid-container > div {
