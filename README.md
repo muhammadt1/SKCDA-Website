@@ -56,6 +56,7 @@
 - Driving <a href = "https://wordpress.com/">Wordpress</a> as Content Management Tool
 - Available resources such as images, content, videos etc.
 - Able to migrate domain name to  <a href = "https://www.godaddy.com/en-ca">GoDaddy</a>
+- Design implementation based on Northstar users
 </h3>
 <h1></h1>
 
@@ -72,10 +73,8 @@
 <h2><u>Resources</u></h2>
 <h3>
 
-- Check out our <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/">Initial Planning</a>
-- <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%201.pdf>Empathy Map 1</a>
-- <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%202.pdf>Empathy Map 2</a>
-- <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%203.pdf>Empathy Map 3</a>
-- <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Affinity%20Diagram.pdf>Affinity Map</a>
-- <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Documents/Insights.pdf>Insights</a>
-- <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/usm-SKCDA.pdf>User Story Map</a>
+- Plan: <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/">Initial</a> &rarr; <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/">Feedback</a>
+- Empathy: <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%201.pdf>Map1</a> &rarr; <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%202.pdf>Map2</a> &rarr; <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%203.pdf>Map3</a>
+- Affinity: <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Affinity%20Diagram.pdf>Diagram</a>
+- Insights: <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Documents/Insights.pdf>Table</a>
+- User Story Board(USM): <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/usm-SKCDA.pdf>Releases</a>
