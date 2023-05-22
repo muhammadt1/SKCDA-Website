@@ -77,4 +77,4 @@
 - Empathy: <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%201.pdf>Map1</a> &rarr; <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%202.pdf>Map2</a> &rarr; <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%203.pdf>Map3</a>
 - Affinity: <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Affinity%20Diagram.pdf>Diagram</a>
 - Insights: <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Documents/Insights.pdf>Table</a>
-- User Story Board(USM): <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/usm-SKCDA.pdf>Releases</a>
+- User Story Board(USM): <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/User%20story%20map%201.pdf>Release1 </a> &rarr; <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/User%20story%20map%202.pdf>Release2 </a>
