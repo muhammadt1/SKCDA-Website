@@ -70,11 +70,14 @@
 </h3>
 <h1></h1>
 
+<h2 align = "center"><strong> :fireworks: Check out the whole design and procees <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/">here</a></strong></h2>
 <h2><u>Resources</u></h2>
 <h3>
 
-- Plan: <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/">Initial</a> &rarr; <a href = "https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Documents/CustomerNotes.pdf">Feedback</a>
-- Empathy: <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%201.pdf>Map1</a> &rarr; <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%202.pdf>Map2</a> &rarr; <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%203.pdf>Map3</a>
-- Affinity: <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Affinity%20Diagram.pdf>Diagram</a>
-- Insights: <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Documents/Insights.pdf>Table</a>
-- User Story Board(USM): <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/User%20story%20map%201.pdf>Release1 </a> &rarr; <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/User%20story%20map%202.pdf>Release2 </a>
+* Empathy: <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%201.pdf>Map1</a> &rarr; <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%202.pdf>Map2</a> &rarr; <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%203.pdf>Map3</a>
+* Affinity: <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Affinity%20Diagram.pdf>Diagram</a>
+* Insights: <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Documents/Insights.pdf>Table</a>
+* User Story Board(USM):
+
+    * <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/User%20story%20map%201.pdf>First Release </a> &rarr; <a href = "https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Documents/CustomerNotes.pdf">Feedback</a>
+    * <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/User%20story%20map%202.pdf>Second Release </a>
