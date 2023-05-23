@@ -70,7 +70,7 @@
 </h3>
 <h1></h1>
 
-<h2 align = "center"><strong> :fireworks: Check out the whole design and procees <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/">here</a></strong></h2>
+<h2 align = "center"><strong> :fireworks: :fireworks: :fireworks: Check out the whole design and procees <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/">here</a> :fireworks: :fireworks: :fireworks: </strong></h2>
 <h2><u>Resources</u></h2>
 <h3>
 
