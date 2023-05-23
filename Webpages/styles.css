@@ -1,0 +1,65 @@
+body{
+    margin:5%;
+    background-color: rgb(192, 154, 154);
+}
+
+header{
+    text-align: center;
+}
+
+.headerImage{
+    width: 200px;
+    padding-left: 10%;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+
+.bodyImage{
+    width: 100%;
+    margin: auto;
+}
+
+table, th, td {
+    border:1px solid black;
+    table-layout: fixed;
+  }
+
+td{
+    background-color: rgb(197, 181, 181);
+}
+
+.timer{
+    font-size: 48px;
+    margin-top: 1%;
+    margin-left: 80%;
+    text-align: center;
+  }
+  
+.button {
+    display: block;
+    margin-top: 0.5%;
+    margin-left: 80%;
+    background-color: rgb(158, 221, 240);
+  }
+
+  .zoom {
+    cursor: zoom-out;
+    display: block;
+    position: fixed;
+    left: 5%;
+    top: 5%;
+    right: 5%;
+    bottom: 5%;
+    margin: auto;
+    max-width: 90%;
+    max-height: 90%;
+    object-fit: contain;
+    box-sizing: border-box;
+}
