@@ -1,0 +1,42 @@
+body{
+    background-color: red;
+    margin: 0%;
+}
+header{
+    background-color: white;
+    padding-bottom: 1%;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logoImage{
+    padding: 1%;
+    width: 100%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+nav {
+    display: inline;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 10px;
+}
+
+.underConstructionImage{
+    width: 45%;
+}
+.underConstruction{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2%;
+}
