@@ -1,5 +1,5 @@
 body{
-    background-color: red;
+    background-color: #551A8B;
     margin: 0%;
 }
 header{
@@ -11,6 +11,7 @@ header{
     justify-content: center;
     align-items: center;
 }
+
 .logoImage{
     padding: 1%;
     width: 100%;
@@ -29,14 +30,24 @@ nav {
 
 nav a {
     margin: 0 10px;
+    font-size: 130%;
 }
 
-.underConstructionImage{
-    width: 45%;
-}
-.underConstruction{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.section1{
+    width: 50%;
+    padding: 1%;
+    background-color: #919591;
     margin: 2%;
+}
+
+.arrow{
+    max-width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.arrowDown{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    width: 18%;
+    height: 18%;
 }
