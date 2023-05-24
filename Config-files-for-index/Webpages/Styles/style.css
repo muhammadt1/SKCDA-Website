@@ -1,5 +1,5 @@
 body{
-    background-color: #551A8B;
+    background-color: #7a6b88;
     margin: 0%;
 }
 header{
@@ -50,4 +50,13 @@ nav a {
     padding-bottom: 10%;
     width: 18%;
     height: 18%;
+}
+
+.underConstruction{
+    padding-top: 10%;
+    padding-left: 10%;
+}
+
+.underConstructionImage{
+    width: 90%;
 }
