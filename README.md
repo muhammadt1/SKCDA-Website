@@ -79,4 +79,4 @@
 * Insights: <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Documents/Insights.pdf>Table</a>
 * <a href = "threetopics">Design Implementation </a> (3 Topics)
     * <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/User%20story%20map%201.pdf>First Release </a> &rarr; <a href = "https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Documents/CustomerNotes.pdf">Feedback</a>
-    * <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/User%20story%20map%202.pdf>Second Release </a> &rarr; <a href = "#secondfeedback">Feedback</a>
+    * <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/User%20story%20map%202.pdf>Second Release </a> &rarr; <a href = "https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Documents/Design-Ideas-Discussed.pdf">Feedback</a>
