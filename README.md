@@ -78,6 +78,7 @@
 * Affinity: <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Affinity%20Diagram.pdf>Diagram</a>
 * Insights: <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Documents/Insights.pdf>Table</a>
 * <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/Documents/Design-Ideas-Discussed.pdf">Design Implementation for Low Fidelity </a> (3 Topics)
+* <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/Documents/Design-Ideas-for-HiFi.pdf">Design Implementation for High Fidelity </a> (3 Topics)
     * <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/User%20story%20map%201.pdf>First Release </a> &rarr; <a href = "https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Documents/CustomerNotes.pdf">Feedback</a>
     * <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/User%20story%20map%202.pdf>Second Release </a> &rarr; <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/Documents/Customers-Feedback-on-Prototypes.pdf">Feedback</a>
-* <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/Documents/Design-Ideas-for-HiFi.pdf">Design Implementation for High Fidelity </a> (3 Topics)
+    * <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/User%20story%20map%202.pdf>Third Release </a> &rarr; <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/Documents/Colleagues&CustomersFeedbackOnTheFirstHighFidelityPrototype.pdf">Feedback</a>
