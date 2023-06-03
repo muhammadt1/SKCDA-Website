@@ -74,11 +74,23 @@
 <h2><u>Resources</u></h2>
 <h3>
 
-* Empathy: <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%201.pdf>Map1</a> &rarr; <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%202.pdf>Map2</a> &rarr; <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%203.pdf>Map3</a>
-* Affinity: <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Affinity%20Diagram.pdf>Diagram</a>
-* Insights: <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Documents/Insights.pdf>Table</a>
 * <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/Documents/Design-Ideas-Discussed.pdf">Design Implementation for Low Fidelity </a> (3 Topics)
 * <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/Documents/Design-Ideas-for-HiFi.pdf">Design Implementation for High Fidelity </a> (3 Topics)
-    * <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/User%20story%20map%201.pdf>First Release </a> &rarr; <a href = "https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Documents/CustomerNotes.pdf">Feedback</a>
-    * <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/User%20story%20map%202.pdf>Second Release </a> &rarr; <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/Documents/Customers-Feedback-on-Prototypes.pdf">Feedback</a>
-    * <a href = "https://www.figma.com/proto/S01HX3KxAzEDu5BLuYyV1W/Untitled?type=design&node-id=1-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2">Third Release </a> &rarr; <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/Documents/Colleagues&CustomersFeedbackOnTheFirstHighFidelityPrototype.pdf">Feedback</a>
+* First Stage &rarr; <a href = "https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Documents/CustomerNotes.pdf">Feedback</a>
+    * Empathy: <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%201.pdf>Map1</a> &rarr; <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%202.pdf>Map2</a> &rarr; <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%203.pdf>Map3</a>
+    * Affinity: <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Affinity%20Diagram.pdf>Diagram</a>
+    * Insights: <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Documents/Insights.pdf>Table</a>
+    * <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/User%20story%20map%201.pdf> USM </a>
+    <h2></h2>
+* Second Stage &rarr; <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/Documents/Customers-Feedback-on-Prototypes.pdf">Feedback</a>
+    * Lofi Prototypes: <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/First-Prototype.pdf>Prototype1</a> &rarr; <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Second-Prototype.pdf>Prototype2</a> &rarr; <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Third-Prototype.pdf>Prototype3</a>
+    * Site Maps: <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/First-site-map.pdf>Map1</a> &rarr; <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Second-site-map.pdf>Map2</a> &rarr; <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Third-site-map.pdf>Map3</a>
+    * <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/User%20story%20map%202.pdf>USM </a>
+    <h2></h2>
+
+* Third Release </a> &rarr; <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/Documents/Colleagues&CustomersFeedbackOnTheFirstHighFidelityPrototype.pdf">Feedback</a>
+
+    * <a href = "https://www.figma.com/proto/zOJRMy3C2Slym02MmBwCZk/Untitled?type=design&node-id=40-1402&scaling=contain&page-id=0%3A1&starting-point-node-id=40%3A1402">Medium Fidelity Prototype </a>
+     * <a href = "https://www.figma.com/proto/S01HX3KxAzEDu5BLuYyV1W/Untitled?type=design&node-id=1-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2">High Fidelity Prototype </a>
+    * <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/User%20story%20map%202.pdf>USM</a>
+</h3>
