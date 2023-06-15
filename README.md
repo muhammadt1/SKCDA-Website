@@ -73,7 +73,7 @@
 <h2><u>Resources</u></h2>
 <h3>
 
-* <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/Documents/Design-Ideas-Discussed.pdf">Design Implementation for Low Fidelity </a> (3 Topics)
+* <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/Documents/Design%20Ideas/Design-Ideas-for-LowFi.pdf">Design Implementation for Low Fidelity </a> (3 Topics)
 * <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/Documents/Design-Ideas-for-HiFi.pdf">Design Implementation for High Fidelity </a> (3 Topics)
 * First Stage &rarr; <a href = "https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Documents/CustomerNotes.pdf">Feedback</a>
     * Empathy: <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%201.pdf>Map1</a> &rarr; <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%202.pdf>Map2</a> &rarr; <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/Group%20Empathy%20Map%203.pdf>Map3</a>
