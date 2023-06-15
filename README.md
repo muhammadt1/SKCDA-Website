@@ -87,7 +87,7 @@
     * <a href = https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/User%20story%20map%202.pdf>USM </a>
     <h2></h2>
 
-* Third Release </a> &rarr; <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/Documents/Colleagues&CustomersFeedbackOnTheFirstHighFidelityPrototype.pdf">Feedback</a>
+* Third Stage </a> &rarr; <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/Documents/Colleagues&CustomersFeedbackOnTheFirstHighFidelityPrototype.pdf">Feedback</a>
 
     * <a href = "https://www.figma.com/proto/zOJRMy3C2Slym02MmBwCZk/Untitled?type=design&node-id=40-1402&scaling=contain&page-id=0%3A1&starting-point-node-id=40%3A1402">Medium Fidelity Prototype </a>
      * <a href = "https://www.figma.com/proto/S01HX3KxAzEDu5BLuYyV1W/Untitled?type=design&node-id=1-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2">High Fidelity Prototype </a>
