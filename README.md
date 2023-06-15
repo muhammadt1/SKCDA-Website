@@ -1,6 +1,5 @@
 <h1 align = center>Saskatchewan Career Development Association (SKDCA) - Web Application</h1>
-<h2 align = "center"><strong> :fireworks: :fireworks: :fireworks: Check out the whole design and procees <a href = "https://binaryqubit.github.io/SKCDA---Webpage---Design/">here</a> :fireworks: :fireworks: :fireworks: </strong></h2>
-<h1></h1>
+
 <h2><u>Project Overview</u></h2>
 
 <h3>The purpose of this project is to design and develop a fully functional website for the Saskatchewan Career Development Association <a href = "http://www.skcda.ca/">(SKCDA)</a>, a professional, non-profit (voluntary) association dedicated to supporting Career Development Practitioners (CDPs) working across Saskatchewan. Our goal is to create an engaging and informative website that effectively advocates for the field of career development, fosters networking opportunities among CDPs, and provides valuable professional development activities for the association's members.</h3>
