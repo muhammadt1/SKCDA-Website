@@ -19,7 +19,7 @@
 <h2><u>Intended Audience</u></h2>
 <h3>The website we are designing for the Saskatchewan Career Development Association (SKCDA) will cater to the following:</h3>
 
-<h3><i><strong>Northstar</strong></i> audience who are:</h3>
+<h3><i><strong>Northstar</strong></i> audience:</h3>
 
 <h3>
 
@@ -28,7 +28,7 @@
 * Professionals looking for CCDP designation
 </h3>
 
-<h3><i><strong>Carryover</strong></i> audience who are:</h3>
+<h3><i><strong>Carryover</strong></i> audience:</h3>
 
 <h3>
 
