@@ -100,7 +100,7 @@
 
     * <a href = "https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Documents/Project%20Day%20Deliverables%20and%20Report/Aeoniums%20Final%20Report.pdf ">Final Report </a>
 
-    * <a href = "https://aeoniums.softsys.ca/">Final Website Prototype</a>
+    * <a href = "https://aeoniums.softsys.ca/">Final Website</a>
 
    
 
